@@ -1,6 +1,6 @@
 # Site settings
-title: "Open Repository Resource Hub"
-description: "Guides, tutorials, and reference material for using the repository."
+title: "HHEAR Analytic Resource Library"
+description: "Guides, tutorials, and reference material for using the HHEAR Data Repository."
 url: "https://hhear.github.io"  # leave blank for GitHub Pages; theme will infer / be fine
 baseurl: "/analytic-resource-library"
 
