@@ -1,8 +1,8 @@
 # Site settings
 title: "Open Repository Resource Hub"
 description: "Guides, tutorials, and reference material for using the repository."
-url: ""  # leave blank for GitHub Pages; theme will infer / be fine
-baseurl: ""
+url: "https://hhear.github.io"  # leave blank for GitHub Pages; theme will infer / be fine
+baseurl: "/analytic-resource-library"
 
 # Theme (remote)
 remote_theme: "mmistakes/minimal-mistakes"
