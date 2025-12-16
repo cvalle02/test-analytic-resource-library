@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Getting Started"
+    url: /getting-started/
+  - title: "Data & Metadata"
+    url: /data-metadata/
+  - title: "Tutorials"
+    url: /tutorials/
+  - title: "Examples"
+    url: /examples/
+  - title: "Support"
+    url: /support/

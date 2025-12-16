@@ -1,0 +1,55 @@
+# Site settings
+title: "Open Repository Resource Hub"
+description: "Guides, tutorials, and reference material for using the repository."
+url: ""  # leave blank for GitHub Pages; theme will infer / be fine
+baseurl: ""
+
+# Theme (remote)
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Keep the site looking like a documentation/resource hub (not a blog)
+plugins:
+  - jekyll-include-cache
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "air"   # options: default, air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
+locale: "en-US"
+
+# Header / footer
+masthead_title: ""   # set to title if you want; empty uses site title
+breadcrumbs: true
+
+# Remove blog-like behavior
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  # All "pages" in _pages get a consistent layout & no sidebar
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      toc: true
+      toc_sticky: true
+
+# Optional: GitHub repo link in header (set to your repo after you create it)
+repository: ""
+
+# Exclude junk files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .DS_Store
