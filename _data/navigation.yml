@@ -3,11 +3,11 @@ main:
     url: /
   - title: "Getting Started"
     url: /getting-started/
-  - title: "Data & Metadata"
+  - title: "Annotations"
     url: /data-metadata/
   - title: "Tutorials"
     url: /tutorials/
-  - title: "Examples"
+  - title: "Code"
     url: /examples/
   - title: "Support"
     url: /support/
