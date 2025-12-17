@@ -2,11 +2,21 @@
 title: "HHEAR Analytic Resource Library"
 layout: splash
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.25"
-  overlay_image: /assets/images/hhear-main-logo.png
 excerpt: "A centralized, easy-to-navigate set of documentation for working with the HHEAR Data Repository."
+<div style="display:flex; align-items:center; gap:2rem; padding:2.5rem 0; flex-wrap:wrap;">
+  <img src="/assets/images/hhear-main-logo.png"
+       alt="HHEAR logo"
+       style="max-width:340px; width:100%; height:auto;">
+
+  <div style="max-width:700px;">
+    <h1 class="page__title">{{ page.title }}</h1>
+    <div class="page__excerpt">
+      {{ page.excerpt | markdownify }}
+    </div>
+  </div>
+</div>
+
+
 feature_row:
   - alt: "Getting started"
     title: "Getting Started"
