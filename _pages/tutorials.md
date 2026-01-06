@@ -98,9 +98,9 @@ TO BE WRITTEN
 
 _How do I interpret column headers?_
 
-This guide is intended to help decode the components that make up the name of a variable downloaded from the HHEAR Data Repository. The column headers serve as metadata for the data within each column. They describe who the data are about, what the data describe, when it was collected, etc. Below are some examples that illustrate how column headers may differ, depending upon the variable being described.
+To download the PDF, click [here](https://github.com/cvalle02/test-analytic-resource-library/assets/pdfs/colheader_guide_updated.pdf)
 
-
+![here](https://github.com/cvalle02/test-analytic-resource-library/assets/pdfs/colheader_guide_updated.pdf)
 
 
 **TO BE REMOVED**
