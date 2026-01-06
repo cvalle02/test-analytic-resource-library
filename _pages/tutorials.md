@@ -100,7 +100,9 @@ _How do I interpret column headers?_
 
 To download the PDF, click [here](https://github.com/cvalle02/test-analytic-resource-library/assets/pdfs/colheader_guide_updated.pdf)
 
-![here](https://github.com/cvalle02/test-analytic-resource-library/assets/pdfs/colheader_guide_updated.pdf)
+![here]
+
+<img src="https://github.com/cvalle02/test-analytic-resource-library/main/assets/images/resource20%images/colheader_guide_updated_Page_1.png">
 
 
 **TO BE REMOVED**
