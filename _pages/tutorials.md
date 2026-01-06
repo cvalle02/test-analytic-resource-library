@@ -98,12 +98,65 @@ TO BE WRITTEN
 
 _How do I interpret column headers?_
 
-To download the PDF, click [here](https://github.com/cvalle02/test-analytic-resource-library/assets/pdfs/colheader_guide_updated.pdf)
+To download a copy of the image as a PDF for reference, click [here](https://github.com/cvalle02/test-analytic-resource-library/assets/pdfs/colheader_guide_updated.pdf)
 
-![here]
+![alt text](https://github.com/cvalle02/test-analytic-resource-library/blob/dd4dab76fc1d37b1e7bb89c59c036be3a00a917a/assets/images/resource%20images/colheader_guide_updated_Page_1.png)
+![alt text](https://github.com/cvalle02/test-analytic-resource-library/blob/dd4dab76fc1d37b1e7bb89c59c036be3a00a917a/assets/images/resource%20images/colheader_guide_updated_Page_2.png)
 
-<img src="https://github.com/cvalle02/test-analytic-resource-library/main/assets/images/resource20%images/colheader_guide_updated_Page_1.png">
 
+The following tables list labels which may appear to represent similar concepts but have specific, context-dependent meanings within the HHEAR ontology:
+
+**Intake and Nutrition Behaviors: Definitions of Consumption and Feeding-Related Variables**
+
+| LABEL(S)        | DEFINITION          | EXAMPLE STUDIES  |
+| ------------- |-------------| :-----:|
+| Consumption-Behavior     | Behavior related to the intake of substances. | 2016-1461 |
+| Eating-Or-Drinking     | The act of eating or drinking some food or beverage.     |   2017-1945 |
+| Feeding Method | A description of the technique for the manner in which a subject is administered food.    |    2018-2537 |
+| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+
+**Healthcare Access and Utilization**
+
+| LABEL(S)        | DEFINITION          | EXAMPLE STUDIES  |
+| ------------- |-------------| :-----:|
+| Consumption-Behavior     | Behavior related to the intake of substances. | 2016-1461 |
+| Eating-Or-Drinking     | The act of eating or drinking some food or beverage.     |   2017-1945 |
+| Feeding Method | A description of the technique for the manner in which a subject is administered food.    |    2018-2537 |
+| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+
+**Study Cohorts and Interventions: Definitions of Grouping and Assignment Variables**
+
+| LABEL(S)        | DEFINITION          | EXAMPLE STUDIES  |
+| ------------- |-------------| :-----:|
+| Consumption-Behavior     | Behavior related to the intake of substances. | 2016-1461 |
+| Eating-Or-Drinking     | The act of eating or drinking some food or beverage.     |   2017-1945 |
+| Feeding Method | A description of the technique for the manner in which a subject is administered food.    |    2018-2537 |
+
+The following tables list variable labels within the HHEAR ontology that have study-specific definitions, capturing unique attributes or conditions in particular study contexts:
+
+| LABEL(S)        | DEFINITION          | EXAMPLE STUDIES  |
+| ------------- |-------------| :-----:|
+| Consumption-Behavior     | Behavior related to the intake of substances. | 2016-1461 |
+| Eating-Or-Drinking     | The act of eating or drinking some food or beverage.     |   2017-1945 |
+| Feeding Method | A description of the technique for the manner in which a subject is administered food.    |    2018-2537 |
+| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+
+### 4. DATA OUTPUT USER GUIDES
+
+
+_How do I access DOIs to use them to cite HHEAR data?_
+
+TO BE WRITTEN. 
+
+_How do I share files with others?_ 
+
+TO BE WRITTEN. 
 
 **TO BE REMOVED**
 - **Getting access:** [read](https://example.org)
