@@ -108,6 +108,8 @@ To download a copy of the image as a PDF for reference, click [here](https://git
 
 The following tables list labels which may appear to represent similar concepts but have specific, context-dependent meanings within the HHEAR ontology:
 
+
+
 **Intake and Nutrition Behaviors: Definitions of Consumption and Feeding-Related Variables**
 
 | LABEL(S)        | DEFINITION          | EXAMPLE STUDIES  |
@@ -116,6 +118,8 @@ The following tables list labels which may appear to represent similar concepts 
 | Eating-Or-Drinking     | The act of eating or drinking some food or beverage.     |   2017-1945 |
 | Feeding Method | A description of the technique for the manner in which a subject is administered food.    |    2018-2537 |
 | Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+
+
 
 **Healthcare Access and Utilization**
 
@@ -128,6 +132,8 @@ The following tables list labels which may appear to represent similar concepts 
 | Hospital-Utilization | Use of overnight hospital stays for illness purposes.    |    2017-1407 |
 | Hospitalization | Admission to a hospital.    |    2017-1407 |
 
+
+
 **Study Cohorts and Interventions: Definitions of Grouping and Assignment Variables**
 
 | LABEL(S)        | DEFINITION          | EXAMPLE STUDIES  |
@@ -135,6 +141,8 @@ The following tables list labels which may appear to represent similar concepts 
 | Population-Group    | A group of individuals united by a common factor (e.g., geographic location, ethnicity, disease, age, gender). |  |
 | Seasonal-Population-Group    | A Population Group organized by which season of the year the subjects were tested or studied.     |  |
 | Medical-Intervention | Whether participant was randomized to intervention group or not.    |    2018-2537 |
+
+
 
 The following tables list variable labels within the HHEAR ontology that have study-specific definitions, capturing unique attributes or conditions in particular study contexts:
 
