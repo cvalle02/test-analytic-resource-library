@@ -185,8 +185,8 @@ TO BE WRITTEN.
 
 _What time periods may be included in HHEAR datasets?_
 
-[IMAGE INSERT]
+![alt text](https://github.com/cvalle02/test-analytic-resource-library/blob/efdf42cb4760379a786d29e7eadadf57f9e96837/assets/images/resource%20images/TimePeriods.png)
 
 _What sample types may be included in HHEAR datasets?_
 
-[IMAGE INSERT]
+![alt text](https://github.com/cvalle02/test-analytic-resource-library/blob/efdf42cb4760379a786d29e7eadadf57f9e96837/assets/images/resource%20images/SampleTypes.png)
