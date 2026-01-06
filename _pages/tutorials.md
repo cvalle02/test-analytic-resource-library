@@ -46,6 +46,8 @@ A How-to Video for users who want to share customized datasets with other users 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
+
+
 **TO BE REMOVED**
 - **Repository overview (5–10 min):** [watch](https://youtube.com/)
 - **How to find datasets:** [watch](https://youtube.com/)
@@ -119,33 +121,36 @@ The following tables list labels which may appear to represent similar concepts 
 
 | LABEL(S)        | DEFINITION          | EXAMPLE STUDIES  |
 | ------------- |-------------| :-----:|
-| Consumption-Behavior     | Behavior related to the intake of substances. | 2016-1461 |
-| Eating-Or-Drinking     | The act of eating or drinking some food or beverage.     |   2017-1945 |
-| Feeding Method | A description of the technique for the manner in which a subject is administered food.    |    2018-2537 |
-| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
-| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
-| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+| Destination    | A place to which one is traveling or to which something is sent for healthcare. | 2017-1962 |
+| Hospital-Admission-By-Admission-Source     | A subclass of Hospital Admission; this class is used to differentiate between admissions that originate from the ER department of the study hospital versus those that do not.     |   2018-2120 |
+| Hospital-Admission-By-Admission-Type | A subclass of Hospital Admission; this class is used to differentiate the reasons for the hospital admission, Medical, Surgical, or Trauma.   |    2018-2120 |
+| Hospital-Admission-By-Prior-Home-Medical-Technology-Use | A subclass of Hospital Admission; differentiates hospital admissions by whether or not the patient required home medical technology use prior to admission.    |    2018-2120 |
+| Hospital-Utilization | Use of overnight hospital stays for illness purposes.    |    2017-1407 |
+| Hospitalization | Admission to a hospital.    |    2017-1407 |
 
 **Study Cohorts and Interventions: Definitions of Grouping and Assignment Variables**
 
 | LABEL(S)        | DEFINITION          | EXAMPLE STUDIES  |
 | ------------- |-------------| :-----:|
-| Consumption-Behavior     | Behavior related to the intake of substances. | 2016-1461 |
-| Eating-Or-Drinking     | The act of eating or drinking some food or beverage.     |   2017-1945 |
-| Feeding Method | A description of the technique for the manner in which a subject is administered food.    |    2018-2537 |
+| Population-Group    | A group of individuals united by a common factor (e.g., geographic location, ethnicity, disease, age, gender). |  |
+| Seasonal-Population-Group    | A Population Group organized by which season of the year the subjects were tested or studied.     |  |
+| Medical-Intervention | Whether participant was randomized to intervention group or not.    |    2018-2537 |
 
 The following tables list variable labels within the HHEAR ontology that have study-specific definitions, capturing unique attributes or conditions in particular study contexts:
 
 | LABEL(S)        | DEFINITION          | EXAMPLE STUDIES  |
 | ------------- |-------------| :-----:|
-| Consumption-Behavior     | Behavior related to the intake of substances. | 2016-1461 |
-| Eating-Or-Drinking     | The act of eating or drinking some food or beverage.     |   2017-1945 |
-| Feeding Method | A description of the technique for the manner in which a subject is administered food.    |    2018-2537 |
-| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
-| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
-| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
-| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
-| Nutrition-Intake | The process of taking in nutrients such as supplements, considered in relation to the body’s dietary needs.    |    2017-1977 |
+| Infection     | Presence of one of the following hospital-associated infections: catheter-associated urinary tract infection (CAUTI), central line-associated bloodstream infection (CLABSI), or ventilator associated pneumonia (VAP). | 2018-2120 |
+| Life-Stage    | A designation assigned to a particular period during a life cycle, generally defined by chronological parameters.    |   2017-1962 |
+| Life-Status | Refers to the current condition of being either alive or deceased.  |    2018-2120 |
+| Parasite-Count | Count of parasites.    |    For malaria, study 2016-1432 |
+| Phenotype | An observable characteristic of an individual; pertaining to the individual’s medical history.   |    |
+| Second-Hand-Smoke-Exposure-By-Indicator-Status | A class to identify if a person has been exposed to second hand smoke or has not been exposed to second hand smoke during an implicit time period.   |    2016-1523 |
+| Social-Affect-+-Restricted-And-RepetitiveBehaviorTotal | A component of the autism assessment instrument Autism Diagnostic Observation Schedule (ADOS); Specifically, it is the Social Affect (SA) + Restricted and Repetitive Behavior (RRB) Total for ADOS.   |    2016-1438 |
+| Social-Relation | A social entity that describes a relationship between two or more individuals or groups.   | 2017-1762|
+
+
+
 
 ### 4. DATA OUTPUT USER GUIDES
 
@@ -158,7 +163,22 @@ _How do I share files with others?_
 
 TO BE WRITTEN. 
 
+
+
+
 **TO BE REMOVED**
 - **Getting access:** [read](https://example.org)
 - **Common workflow:** [read](https://example.org)
 - **Troubleshooting:** [read](https://example.org)
+
+
+
+# HHEAR DATA FAQS
+
+_What time periods may be included in HHEAR datasets?_
+
+[IMAGE INSERT]
+
+_What sample types may be included in HHEAR datasets?_
+
+[IMAGE INSERT]
