@@ -47,14 +47,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-
-**TO BE REMOVED**
-- **Repository overview (5–10 min):** [watch](https://youtube.com/)
-- **How to find datasets:** [watch](https://youtube.com/)
-- **How to interpret the data dictionary:** [watch](https://youtube.com/)
-
-
-
 # STEP-BY-STEP GUIDES
 
 ### 1. STUDY-LEVEL SEARCH USER GUIDES
@@ -85,14 +77,15 @@ _How do I download data from a single study?_
 ### 2. DATA-LEVEL SEARCH USER GUIDES
 
 
-_How do I download datasets using the data level search?_
+_How do I download datasets using the Data level search?_
 
 TO BE WRITTEN
 
 
 _How do I access previously downloaded datasets?_
 
-TO BE WRITTEN
+1. At the top of the page, there will be a ribbon with multiple links. Begin by navigating to the Data Level Search then clicking on the hyperlink, **HHEAR Data Center**. If not yet logged-in, you will be prompted to do so before continuing.
+2. The following webpage should be the HHEAR Harmonized Data Portal. Under the **Data Search and Retrieval Options**, select **Retrieve Datasets/Codebooks** redirecting to the **Current Working Files Folder**, where all previously and currently downloaded files should be located.
 
 
 ### 3. DATA OUTPUT USER GUIDES
@@ -169,15 +162,15 @@ TO BE WRITTEN.
 
 _How do I share files with others?_ 
 
-TO BE WRITTEN. 
+Note: Both users **SHOULD** have an account in order to share files. 
 
+1. At the top of the page, there will be a ribbon with multiple links. Begin by navigating to the Data Level Search then clicking on the hyperlink, **HHEAR Data Center**. If not yet logged-in, you will be prompted to do so before continuing.
+2. The following webpage should be the HHEAR Harmonized Data Portal. Under the **Data Search and Retrieval Options**, select **Retrieve Datasets/Codebooks** redirecting to the **Current Working Files Folder**, where all previously and currently downloaded files should be located. 
+3. Select the file to share by checking the box on the left-most column. Under the column, **File Operations** select the button to share which will redirect you to a webpage. Here you will select **Add New Viewer** where you will provide the e-mail of the user to share the data file with. Keep in mind the e-mail needs to be the exact e-mail associated with the HHEAR account. 
+4. To complete sharing the file, click on the green plus sign icon under the field, **Actions.**
 
-
-
-**TO BE REMOVED**
-- **Getting access:** [read](https://example.org)
-- **Common workflow:** [read](https://example.org)
-- **Troubleshooting:** [read](https://example.org)
+5. Once shared, the recipient can view the file by navigating to their Current Working Files Folder (see instructions above) and clicking on the two dots located underneath the column **Working Files** right underneath the first row. From the list of e-mails provided, select the e-mail address of the file sender. 
+6. Scroll within the downloads to find the file shared, which should include two options: **Preview** and **Download.** Select Download to begin downloading the file. 
 
 
 
