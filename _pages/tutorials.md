@@ -49,47 +49,15 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # STEP-BY-STEP GUIDES
 
-### 1. STUDY-LEVEL SEARCH USER GUIDES
+### 1. STUDY-LEVEL SEARCH USER GUIDES: PDF | WORD
 
+### 2. DATA-LEVEL SEARCH USER GUIDES: PDF | WORD
 
-_How do I download harmonized datasets?_
+### 3. DATA OUTPUT USER GUIDES: PDF | WORD
 
-1.	At the top of the page, there will be a ribbon with multiple links. Begin by navigating to the study level search. If not yet logged-in, you will be prompted to do so before continuing.  
-2.	Select desired Boolean filters on the left panel. See key terms and definitions in this document, if any of the options are unclear or you would like additional information. 
-3.	After selecting filters, navigate to the Study Panels window to see all the studies that meet the criteria already selected. Review the information about each study and adjust filters accordingly before finalizing study set.
-4.	At the top of the Studies Panel click **“Generate Harmonized Dataset for Selected Studies.”** This will initiate the dataset download under **Data Downloads Report** where at the bottom, a progress bar for download will be displayed until it completes. 
-5.	Once the download is complete there will be three separate files. First, a file beginning with the title **‘object_alignment’, today’s date, and unique numerical string**. This is the harmonized data file. Once opened there will be a **STUDY-ID** on the leftmost side at the top of the Excel sheet; this should match the Project #s selected. Each row will correspond to individual subjects within each of those projects. The file will also contain all the variables collected for each study. Because not every study will collect the same information, not every variable will have data for each subject but some common variables will. For example, **CHILD-HUMAN-BIOLOGICAL-SEX** (which collects the sex of the child under study).
-6.	The second file will begin with **‘codebook_alignment’** in the title. As the title aptly implies, this will be the codebook for harmonized data file. This file will contain the value for each numerically coded categorical variable; with the codes listed on the first column and the corresponding value on the second column. The codebook will also include the link to the ontology class on the far right column. 
-7.	The third and last file will begin with **‘doi_alignment’** in the title. All the DOIs for the projects used in this dataset will be found in this file in order to credit investigators and their work in your project.
+### 4. INTERPRETING COLUMN HEADERS AND LABELS: PDF | WORD
 
-
-_How do I download data from a single study?_
-
-1.	At the top of the page, there will be a ribbon with multiple links. Begin by navigating to the study level search. If not yet logged-in, you will be prompted to do so before continuing.  
-2.	Select desired Boolean filters on the left panel. See key terms and definitions in this document, if any of the options are unclear or you would like additional information.
-3.	After selecting filters, navigate to the Study Panels window to see all the studies that meet the criteria already selected. Use the options at the top of this window, to manually review the descriptive information listed for each study, or row, either in table or list form until the desired study is found. 
-4.	Click the button titled **‘Access Data and Metadata’** underneath the Project Name of the desired study. This will give the following options: **Access Study-Specific Files, Visualize Data, and Generate Harmonized Dataset**. To download data and metadata specific to the project select the first option, **Access Study-Specific Files**. The link will open the study-specific webpage. 
-5.	At the top of the study-specific webpage, there will be the Project Description and PIs of the project (this should be identical to the information on the Study Panels window from the Study Level Search). Scroll down to find the following categories with options to download file(s): **General Info**, where you will find a file titled, *the last four digits of the Project #_README.pdf* (**ALWAYS** download this first); **Epidemiologic Data**, where there will be a csv file containing all the epi data specific to the project; one or more **Lab Analytic Data** categories specific to the study, where there will be a csv file(s) containing the laboratory data available for the selected study; and lastly the **Semantic Data Dictionaries (or SDDs)**. 
-6.	It is very important to download the README.pdf file under General Info before downloading any Epidemiologic or Data Analytic files. This file will contain important information about the data files available for download, such as how to cite the CHEAR/HHEAR Data Repository (note there is also a section on how to do this in this document), the glossary explaining how sample and participant IDs and analyte codes are labeled; a table with all the public files available, their source, a short file description and DOIs; and any important analytic notes to be kept in mind while using the data available.
-7.	After reviewing the README.pdf, download the data files needed to complete any desired analyses. 
-
-
-### 2. DATA-LEVEL SEARCH USER GUIDES
-
-
-_How do I download datasets using the Data level search?_
-
-TO BE WRITTEN
-
-
-_How do I access previously downloaded datasets?_
-
-1. At the top of the page, there will be a ribbon with multiple links. Begin by navigating to the Data Level Search then clicking on the hyperlink, **HHEAR Data Center**. If not yet logged-in, you will be prompted to do so before continuing.
-2. The following webpage should be the HHEAR Harmonized Data Portal. Under the **Data Search and Retrieval Options**, select **Retrieve Datasets/Codebooks** redirecting to the **Current Working Files Folder**, where all previously and currently downloaded files should be located.
-
-
-### 3. DATA OUTPUT USER GUIDES
-
+### 5. HHEAR DATA OVERVIEW: PDF | WORD
 
 _How do I interpret column headers?_
 
@@ -149,28 +117,6 @@ The following tables list variable labels within the HHEAR ontology that have st
 | Second-Hand-Smoke-Exposure-By-Indicator-Status | A class to identify if a person has been exposed to second hand smoke or has not been exposed to second hand smoke during an implicit time period.   |    2016-1523 |
 | Social-Affect-+-Restricted-And-RepetitiveBehaviorTotal | A component of the autism assessment instrument Autism Diagnostic Observation Schedule (ADOS); Specifically, it is the Social Affect (SA) + Restricted and Repetitive Behavior (RRB) Total for ADOS.   |    2016-1438 |
 | Social-Relation | A social entity that describes a relationship between two or more individuals or groups.   | 2017-1762|
-
-
-
-
-### 4. DATA OUTPUT USER GUIDES
-
-
-_How do I access DOIs to use them to cite HHEAR data?_
-
-TO BE WRITTEN. 
-
-_How do I share files with others?_ 
-
-Note: Both users **SHOULD** have an account in order to share files. 
-
-1. At the top of the page, there will be a ribbon with multiple links. Begin by navigating to the Data Level Search then clicking on the hyperlink, **HHEAR Data Center**. If not yet logged-in, you will be prompted to do so before continuing.
-2. The following webpage should be the HHEAR Harmonized Data Portal. Under the **Data Search and Retrieval Options**, select **Retrieve Datasets/Codebooks** redirecting to the **Current Working Files Folder**, where all previously and currently downloaded files should be located. 
-3. Select the file to share by checking the box on the left-most column. Under the column, **File Operations** select the button to share which will redirect you to a webpage. Here you will select **Add New Viewer** where you will provide the e-mail of the user to share the data file with. Keep in mind the e-mail needs to be the exact e-mail associated with the HHEAR account. 
-4. To complete sharing the file, click on the green plus sign icon under the field, **Actions.**
-
-5. Once shared, the recipient can view the file by navigating to their Current Working Files Folder (see instructions above) and clicking on the two dots located underneath the column **Working Files** right underneath the first row. From the list of e-mails provided, select the e-mail address of the file sender. 
-6. Scroll within the downloads to find the file shared, which should include two options: **Preview** and **Download.** Select Download to begin downloading the file. 
 
 
 
