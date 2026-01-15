@@ -53,9 +53,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 **2. DATA-LEVEL SEARCH USER GUIDES:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/f567169c0cea4e3cbc5042ef0feafb67317d82c0/assets/pdfs/Data-Level-Search-User-Guide-2026.pdf)
 
-**3. DATA OUTPUT USER GUIDES:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/f567169c0cea4e3cbc5042ef0feafb67317d82c0/assets/pdfs/Data-Output-User-Guide-2026.pdf) | WORD
+**3. DATA OUTPUT USER GUIDES:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/f567169c0cea4e3cbc5042ef0feafb67317d82c0/assets/pdfs/Data-Output-User-Guide-2026.pdf)
 
 **4. INTERPRETING COLUMN HEADERS AND LABELS:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/f567169c0cea4e3cbc5042ef0feafb67317d82c0/assets/pdfs/Column-Headers-Labels-Guide-2026.pdf) 
 
-**5. HHEAR DATA OVERVIEW:** PDF
+**5. HHEAR DATA OVERVIEW:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/a352496db8277b657193b869554348ccf1265043/assets/pdfs/Data-Overview-Guide-2026.pdf)
 
