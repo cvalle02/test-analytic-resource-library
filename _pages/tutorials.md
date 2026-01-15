@@ -57,5 +57,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 **4. INTERPRETING COLUMN HEADERS AND LABELS:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/f567169c0cea4e3cbc5042ef0feafb67317d82c0/assets/pdfs/Column-Headers-Labels-Guide-2026.pdf) 
 
-**5. HHEAR DATA OVERVIEW:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/a352496db8277b657193b869554348ccf1265043/assets/pdfs/Data-Overview-Guide-2026.pdf)
+**5. HHEAR DATA OVERVIEW:** [PDF](https://github.com/cvalle02/test-analytic-resource-library/blob/43f78c863529c6f51bafae0f04fb66091a2c9a9c/assets/pdfs/Data-Overview-Guide-2026.pdf) 
 
