@@ -31,7 +31,7 @@ A: The download tracker in the workspace reports on the progress retrieving the 
 
 ## Contact
 
-- **Email:** HHearsupport@mssm.edu
+- **Email:** [HHearsupport@mssm.edu] (mailto:HHearsupport@mssm.edu)
 
 
 
