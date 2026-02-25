@@ -18,9 +18,15 @@ A: Send an email to the address below to report any issues with accessing or usi
 A: Yes. In order to standardize data to the HHEAR ontology, some variables required transformation or may have been excluded from the harmonized dataset. Refer to the "Data Annotations" page for a listing of these differences or email us using the address below and we can discuss any discrepancies.
 
 **Q: How should I cite my use of HHEAR Data?**  
-A: Instructions for citing HHEAR Data are included in the [HHEAR Publication Policy.](https://hheardatacenter.mssm.edu/HHEAR-ExternalPublicationsPolicy-2024-09-06_0.pdf) Briefly, all datasets used to create your analytic data should be cited within your bibliography individually. The information needed can be found on the study specific pages within the HHEAR repository and, in the case of harmonized data, within the generated DOI file. In general, citations within a bibliography should follow the following format: 
+A: Instructions for citing HHEAR Data are included in the [HHEAR Publication Policy.](https://hheardatacenter.mssm.edu/HHEAR-ExternalPublicationsPolicy-2024-09-06_0.pdf) 
+
+Briefly, all datasets used to create your analytic data should be cited within your bibliography individually. The information needed can be found on the study specific pages within the HHEAR repository and, in the case of harmonized data, within the generated DOI file. In general, citations within a bibliography should follow the following format: 
+
 PI Name. Project Name. Type of Data.Year of Deposition. Repository Name, Access Date. DOI
-For example: Christiani D. Relating metals exposure to birth and early childhood outcomes via the metabotype of cord blood. Targeted Lab Analytic Data 2016. HHEAR Data Repository, Accessed 4/24/2024. https://doi.org/10.36043/34_94
+
+Example: Christiani D. Relating metals exposure to birth and early childhood outcomes via the metabotype of cord blood. Targeted Lab Analytic Data 2016. HHEAR Data Repository, Accessed 4/24/2024. https://doi.org/10.36043/34_94
+
+For your convenience, an RDF file is provided to help cite files you used with format described above: [RDF]  
 
 **Q: Can I repost HHEAR Data on my own site? Can I share HHEAR Data with colleagues who do not have a HHEAR account?**  
 A: No, users are not permitted to repost HHEAR data or share data with unauthorized users. Do not allow others to use your account.
