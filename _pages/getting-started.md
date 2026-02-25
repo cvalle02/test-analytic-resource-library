@@ -14,7 +14,13 @@ To access the repository, users must log-in with their unique username and passw
 - **Terms of use:** [link](https://hheardatacenter.mssm.edu/Register/Terms) <br>
 Users should periodically review the terms and conditions, security best practices and security standards to ensure compliance with HHEAR Data Repository policies.
 - **Citation guidance:** [link](https://hheardatacenter.mssm.edu/HHEAR-ExternalPublicationsPolicy-2024-09-06_0.pdf) <br>
-Users should review the HHEAR Publications policy before developing manuscripts, meeting abstracts, posters and/or presentations that utilize data from the HHEAR Data Repository. HHEAR data should be cited in bibliographies as outlined in Section 4.0 of the Publication Policy.
+Users should review the HHEAR Publications policy, as outlined in Section 4.0, in order to cite the use of HHEAR data in developing manuscripts, meeting abstracts, posters and/or presentations. 
+
+  Citations within a bibliography should also follow the following format: PI Name. Project Name. Type of Data.Year of Deposition. Repository Name, Access      Date. DOI
+
+  Example: Christiani D. Relating metals exposure to birth and early childhood outcomes via the metabotype of cord blood. Targeted Lab Analytic Data 2016. HHEAR Data Repository, Accessed 4/24/2024. https://doi.org/10.36043/34_94
+
+  For your convenience, an RDF file is provided to help cite files you used with format described above: [RDF]
 
 
 ## Quick start checklist
