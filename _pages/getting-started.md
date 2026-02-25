@@ -20,7 +20,7 @@ Users should review the HHEAR Publications policy, as outlined in Section 4.0, i
 
   Example: Christiani D. Relating metals exposure to birth and early childhood outcomes via the metabotype of cord blood. Targeted Lab Analytic Data 2016. HHEAR Data Repository, Accessed 4/24/2024. https://doi.org/10.36043/34_94
 
-  For your convenience, an RDF file is provided to help cite files you used with format described above: [RDF](../assets/files/HHEAR_Datasets_Bibliographies.rdf)
+  For your convenience, an RDF file is provided to help cite files you used with the format described above: [RDF](../assets/files/HHEAR_Datasets_Bibliographies.rdf)
 
 
 ## Quick start checklist
