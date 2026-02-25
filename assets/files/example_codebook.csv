@@ -1,0 +1,105 @@
+code, value, class
+1034144,No placental hypoxia, http://hadatac.org/kb/hhear#fc7a0c5e5f35d35b0d70677ee43f47c97a1e04025938372cf46f07df726d0659
+105,Smoker, http://purl.org/twc/HHEAR_00303
+1069,Human immunodeficiency virus infectious disease, http://purl.obolibrary.org/obo/DOID_526
+110,Female, http://semanticscience.org/resource/SIO_010052
+111,Male, http://semanticscience.org/resource/SIO_010048
+1137,Some Parent Employed, http://purl.org/twc/HHEAR_02177
+1138,No Parent Employed, http://purl.org/twc/HHEAR_02178
+1147,"Annual Income Less Than 1,000 ZAR", http://purl.org/twc/HHEAR_02206
+1148,"Annual Income 1,000 ZAR to 5,000 ZAR", http://purl.org/twc/HHEAR_02207
+1149,"Annual Income More Than 5,000 ZAR", http://purl.org/twc/HHEAR_02208
+12,College Graduate, http://purl.org/twc/HHEAR_00043
+130105,No Urine Was Collected, http://hadatac.org/kb/hhear#1fc3928c53bb841814572a1e468dc080c936282a75d56c4b5691d6331bcc0a55
+136,Ever Smoked, http://purl.org/twc/HHEAR_00274
+143,Master's Degree, http://purl.obolibrary.org/obo/NCIT_C39453
+144,Doctorate Degree, http://purl.obolibrary.org/obo/NCIT_C39392
+177,Pre-eclampsia, http://purl.obolibrary.org/obo/DOID_10591
+179,Gestational diabetes, http://purl.obolibrary.org/obo/DOID_11714
+187,Some Postgraduate, http://purl.org/twc/HHEAR_00551
+206,"Annual Income $20,001 to $40,000", http://purl.org/twc/HHEAR_00567
+210,Winter, http://purl.obolibrary.org/obo/NCIT_C94730
+211,Spring, http://purl.obolibrary.org/obo/NCIT_C94731
+212,Summer, http://purl.obolibrary.org/obo/NCIT_C94732
+213,Fall, http://purl.obolibrary.org/obo/NCIT_C94733
+214,White Non-Hispanic, http://purl.org/twc/HHEAR_00575
+215,Less than High School, http://purl.org/twc/HHEAR_00576
+216,Black Non-Hispanic, http://purl.org/twc/HHEAR_00577
+223,"Annual Income More Than $100,000", http://purl.org/twc/HHEAR_00584
+245,Employment, http://purl.obolibrary.org/obo/NCIT_C25172
+31,Post-Secondary Education, http://purl.org/twc/HHEAR_00357
+32,Graduated From High School, http://purl.org/twc/HHEAR_00464
+384,Lower Respiratory Tract Infection, http://purl.obolibrary.org/obo/NCIT_C35158
+414,"Annual Income $4,999 or Less", http://purl.org/twc/HHEAR_00892
+415,"Annual Income $5,000 to $9,999", http://purl.org/twc/HHEAR_00893
+418,"Annual Income $30,000 to $39,999", http://purl.org/twc/HHEAR_00896
+419,"Annual Income $40,000 to $49,999", http://purl.org/twc/HHEAR_00897
+421,"Annual Income $75,000 to $99,999", http://purl.org/twc/HHEAR_00899
+423,"Annual Income More Than $200,000", http://purl.org/twc/HHEAR_00901
+426371,No chronic hypertension, http://hadatac.org/kb/hhear#681837abfbd5ab4cb0f1466a54db8b7f2361aacd4bdaf6eac3c87aa9285d9057
+434628,"Race other than Asian, Black non-Hispanic, Hispanic", http://hadatac.org/kb/hhear#6a1c4f515ace081253a067866875d511d049a1552ff7e9d1af51b8b3a0dad7f9
+47,Hispanic or Latino Ethnicity, http://purl.obolibrary.org/obo/NCIT_C17459
+485616,No Serum Was Collected, http://hadatac.org/kb/hhear#768f06f3d5525d4439e56a274ae96fa9a1f0ca7114e1eae5dbe36e12309a783a
+5,American Indian Or Alaskan Native, http://purl.obolibrary.org/obo/NCIT_C41259
+517,"Annual Income $10,000 to $14,999", http://purl.org/twc/HHEAR_01112
+518,"Annual Income $15,000 to $19,999", http://purl.org/twc/HHEAR_01113
+519,"Annual Income $20,000 to $24,999", http://purl.org/twc/HHEAR_01114
+52,Consumed Alcohol, http://purl.org/twc/HHEAR_00223
+53,Did Not Consume Alcohol, http://purl.org/twc/HHEAR_00225
+54,Multiracial, http://purl.obolibrary.org/obo/NCIT_C67109
+544610,No other hypoxia, http://hadatac.org/kb/hhear#84f622376cdb0e7ac7d36c071c6c0495dc202255d285e9cd5858119558af83
+550348,No hypertensive disorders during this pregnancy, http://hadatac.org/kb/hhear#865cc82df41cb3d42b6c14956b5dd9a2b952a7ec178a24b521af62d1fb17ae0b
+56,Never Smoked, http://scai.fraunhofer.de/CSEO#Never_Smoker
+570,Recruited At Case Western Reserve University, http://purl.org/twc/HHEAR_01206
+571,Recruited At Columbia University, http://purl.org/twc/HHEAR_01207
+573,Recruited At Northwestern University, http://purl.org/twc/HHEAR_01210
+579,"Superimposed, severe, or mild preeclampsia", http://purl.org/twc/HHEAR_01182
+580,New Onset Antepartum Hypertension, http://purl.org/twc/HHEAR_01183
+582,Eclampsia, http://purl.obolibrary.org/obo/DOID_13593
+585,Chronic Maternal Hypertension, http://purl.obolibrary.org/obo/NCIT_C112841
+586,Indicated Birth, http://purl.org/twc/HHEAR_01185
+59,Non-smoker, http://purl.org/twc/HHEAR_00290
+591,Associate's Degree or Technical Degree, http://purl.org/twc/HHEAR_01205
+592,"Annual Income $25,000 to $29,999", http://purl.org/twc/HHEAR_01189
+593,"Annual Income $50,000 to $59,999", http://purl.org/twc/HHEAR_01190
+594,"Annual Income $60,000 to $74,999", http://purl.org/twc/HHEAR_01191
+595,"Annual Income $100,000 to $149,999", http://purl.org/twc/HHEAR_01192
+596,"Annual Income $150,000 to $199,999", http://purl.org/twc/HHEAR_01193
+597,Recruited At University Of Utah, http://purl.org/twc/HHEAR_01213
+597800,No presence of lower respiratory tract infection, http://hadatac.org/kb/hhear#91f280f6dc31d021cd952684d88230a485d283e81a3cf8e3af217b453dabd0f5
+6,Asian, http://purl.obolibrary.org/obo/NCIT_C41260
+609,Spontaneous Labor and Birth, http://purl.obolibrary.org/obo/NCIT_C114102
+610,Has Used Illegal Drugs or Non-Prescribed Pharmaceutical Drugs, http://purl.org/twc/HHEAR_01203
+638,Finished Primary School, http://purl.org/twc/HHEAR_01300
+66,Student, http://purl.obolibrary.org/obo/NCIT_C75561
+67,Unemployment, http://purl.obolibrary.org/obo/NCIT_C75563
+693,Pre-gestational Diabetes, http://purl.obolibrary.org/obo/NCIT_C111913
+696,Recruited At Indiana University, http://purl.org/twc/HHEAR_01208
+697,"Recruited At University Of California, Irvine", http://purl.org/twc/HHEAR_01211
+698,Recruited At University Of Pennsylvania, http://purl.org/twc/HHEAR_01212
+699,Recruited At UPMC Magee-Womens Hospital, http://purl.org/twc/HHEAR_01209
+76,Prenatal Nonsmoker, http://purl.org/twc/HHEAR_00416
+77,Prenatal Smoker, http://purl.org/twc/HHEAR_00417
+78,Previous Smoker, http://purl.org/twc/HHEAR_00296
+831,Mixed Ethnicity, http://purl.org/twc/HHEAR_01706
+839175,No pre-gestational diabetes, http://hadatac.org/kb/hhear#cce0737c1327edbe185b731b1256be94a4a8c43c36274f077b6a2113433f622c
+85,Some College, http://purl.obolibrary.org/obo/NCIT_C67137
+87,Some High School, http://purl.org/twc/HHEAR_00475
+88,Preterm Birth, http://purl.org/twc/HHEAR_00204
+886861,No Gestational Diabetes, http://hadatac.org/kb/hhear#d884d01bee2e7fd4b3ea8e8369c57968a19978ad54992a5e8485a4250c289911
+887327,No illegal drugs or drugs not prescribed taken in the last month, http://hadatac.org/kb/hhear#d8a1f0121bbb86fbabe40821c7bbbde8794e661bc2d51adcba1f82db881fbb16
+891,"Annual Income $20,000 or Less", http://purl.org/twc/HHEAR_01802
+892,"Annual Income $40,000 to $60,000", http://purl.org/twc/HHEAR_01803
+893,"Annual Income $60,000 to $100,000", http://purl.org/twc/HHEAR_01804
+902849,No PreEclampsia, http://hadatac.org/kb/hhear#dc6c1ea5d9e19980ca98c8fbc8c372d74f397ca78732bcf57728368dc0922e30
+913,Professional School Degree, http://purl.org/twc/HHEAR_01834
+913035,No Intrauterine Growth Restriction, http://hadatac.org/kb/hhear#dee8b00ac3fb83159e23efdaf418c35390b1a887aa9f437c0efa3511cb666502
+921,Intrauterine growth retardation, http://purl.obolibrary.org/obo/HP_0001511
+923,Hypoxia, http://purl.obolibrary.org/obo/NCIT_C3890
+926,Low Birth Weight, http://purl.org/twc/HHEAR_01840
+928,Placental hypoxia, http://purl.org/twc/HHEAR_01844
+934,Serum Was Collected, http://purl.org/twc/HHEAR_01914
+935,Urine Was Collected, http://purl.org/twc/HHEAR_01915
+960243,Normal birth weight, http://hadatac.org/kb/hhear#ea6f3a81b59c61f67ded709fb25fc10c4ce0d43fcf675a08297224af65d1a062
+963928,No  human immunodeficiency virus infectious disease, http://hadatac.org/kb/hhear#eb558af346a0afe85012085d8208733ad5207d2a371f07f8519943b5afd163b2
+97,Term Birth, http://purl.org/twc/HHEAR_00214

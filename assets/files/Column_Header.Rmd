@@ -1,0 +1,67 @@
+---
+title: "HHEAR: Code for Creating Clearer Column Headers"
+version: "1.0"
+author: "TD, primary; JAS, secondary"
+---
+##Background
+The HHEAR Data Repository stores important metadata within the column header of data files. Formatting of these column headers are standardized, but not often not optimized for human readability. At the HHEAR Data Center, we have created a pipeline to clean column headers so they can be used as labels in data visualizations. Within the Analytic Resource Library, we have posted a mapping file that includes original column headers for all variables in the repository and their corresponding "cleaned" label. The following programming code will identify the columns in a user's harmonized dataset and replace the column
+
+## User Instructions
+The 2nd code chunk below requires user input. You need to enter the file locations of the dataset you downloaded from the HHEAR Harmonized Data Repository and the HHEAR-provided listing of cleaned column-headers that can be downloaded from the HHEAR Analytic Library. Once you enter those file locations, run this code in its entirety. It will produce a new dataset with the column-headers replaced with the labels and a listing of all of the labels used within the dataset.
+
+Note, the cleaned column-header file will be updated with each HHEAR release. Be sure you have downloaded the most recent version.
+
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(here)
+library(readxl)
+```
+
+##Loading data - REQUIRES USER INPUT
+
+Insert the file paths for the harmonized dataset and the HHEAR-provided clean labels/column-headers. 
+
+Optional: Insert the folder path where the output file should be saved.
+
+```{r loaddata}
+##File path for harmonized dataset 
+user_data <- read_csv("")
+
+##File path for HHEAR-provided clean labels/column-headers
+label_path<-""
+
+##Optional-Specify location of where you want to save the updated data file and listing of variables in dataset. If you leave "" empty, the new file will be saved in your current session directory by default. 
+output_path<-""
+
+```
+
+```{r map, include=FALSE}
+#Read-in Tabs
+mapping_sheets <- excel_sheets(label_path)
+
+mapping_df <- mapping_sheets %>%
+  map_df(~ read_excel(label_path, sheet = .x) %>%
+           select(original, cleaned) %>%
+           mutate(group = .x))
+
+# Create a named vector: original → cleaned
+col_map <- setNames(mapping_df$cleaned, mapping_df$original)
+
+# Rename only the columns that appear in the mapping
+renamed_data <- user_data %>%
+  rename_with(~ ifelse(.x %in% names(col_map), col_map[.x], .x))
+
+# Create object containing just the cleaned variable names that actually appear in the user's dataset
+used_cleaned_vars <- intersect(mapping_df$cleaned, names(renamed_data))
+
+```
+
+```{r export}
+write.csv(renamed_data, 
+                    paste0(output_path, "RenamedData.csv"), row.names = FALSE, na="")
+
+write.csv(used_cleaned_vars, 
+                    paste0(output_path, "Variable_List.csv"), row.names = FALSE, na="")
+```
+

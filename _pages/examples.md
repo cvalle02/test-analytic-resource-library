@@ -1,18 +1,20 @@
 ---
-title: "Examples"
+title: "Programming Code"
 permalink: /examples/
 ---
 
-## Example workflows
+## Common Cleaning workflows
 
-- **Example 1:** short description — [link](https://example.org)
-- **Example 2:** short description — [link](https://example.org)
+The following were developed to facilitate analysis of harmonized data files generated from the HHEAR Data Repository. They are R Markdown files, unless otherwise specified. They are not meant for the study investigator-supplied data files or original HHEAR lab files that can also be downloaded from the Repository.
 
-## Notebooks / code (optional)
+- **Phenotype Cleaning:** In the HHEAR Knowledge Graph, outcomes are represented as phenotypes, and harmonized datasets often store multiple phenotype codes for an individual in a single “Phenotype” column, with codes defined in the accompanying codebook. The provided code expands this column into separate indicator variables for each phenotype (1 = present, blank = absent) while retaining the original column; users can combine related indicators (e.g., has vs. does not have asthma) to create binary variables as needed. — [View Source R Markdown](https://raw.githubusercontent.com/hhear/analytic-resource-library/main/assets/files/Parse_Phenotype.Rmd)
 
-- **R notebook:** [link](https://example.org)
-- **Python notebook:** [link](https://example.org)
+
 
 ## Suggested citation text
 
-Provide a recommended citation for reuse (if applicable).
+HHEAR Data Center (2026).<<Name of Program (Version No.).>> https://github.com/hhear/analytic-resource-library
+
+Example: HHEAR Data Center (2026). Phenotype Cleaning (Version 1.0). https://github.com/hhear/analytic-resource-library
+
+

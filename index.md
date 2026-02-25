@@ -4,7 +4,7 @@ layout: splash
 header:
  overlay_color: "#1F3A5F"
  overlay_filter: "0.25"
-excerpt: "A centralized, easy-to-navigate set of documentation for working with the HHEAR Data Repository."
+excerpt: "A centralized set of documentation for working with the HHEAR Data Repository."
 feature_row:
   - alt: "Getting started"
     title: "Getting Started"

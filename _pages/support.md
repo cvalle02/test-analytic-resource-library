@@ -26,7 +26,7 @@ PI Name. Project Name. Type of Data.Year of Deposition. Repository Name, Access 
 
 Example: Christiani D. Relating metals exposure to birth and early childhood outcomes via the metabotype of cord blood. Targeted Lab Analytic Data 2016. HHEAR Data Repository, Accessed 4/24/2024. https://doi.org/10.36043/34_94
 
-For your convenience, an RDF file is provided to help cite files you used with the format described above: [RDF](../assets/files/HHEAR_Datasets_Bibliographies.rdf)  
+For your convenience, an RDF file containing citation details for all HHEAR datasets is provided for import into Zotero or other reference management software: [RDF](../assets/files/HHEAR_Datasets_Bibliographies.rdf)  
 
 **Q: Can I repost HHEAR Data on my own site? Can I share HHEAR Data with colleagues who do not have a HHEAR account?**  
 A: No, users are not permitted to repost HHEAR data or share data with unauthorized users. Do not allow others to use your account.
@@ -36,7 +36,7 @@ A: The download tracker in the workspace reports on the progress retrieving the 
 
 ## Contact
 
-- **Email:** HHearsupport@mssm.edu
+- **Email:** [HHearsupport@mssm.edu] (mailto:HHearsupport@mssm.edu)
 
 
 

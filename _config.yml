@@ -1,8 +1,8 @@
+copyright: "HHEAR Data Repository"
+copyright_url: "https://hheardatacenter.mssm.edu"
+
 # Site settings
-title: "HHEAR Analytic Resource Library"
-description: "Guides, tutorials, and reference material for using the HHEAR Data Repository."
-url: "https://hhear.github.io"  # leave blank for GitHub Pages; theme will infer / be fine
-baseurl: "/analytic-resource-library"
+title: ""
 
 # Theme (remote)
 remote_theme: "mmistakes/minimal-mistakes"
@@ -27,6 +27,7 @@ collections:
   pages:
     output: true
     permalink: /:path/
+    show_prev_next: false
 
 defaults:
   # All "pages" in _pages get a consistent layout & no sidebar
