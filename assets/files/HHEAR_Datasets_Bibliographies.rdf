@@ -1,0 +1,4235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:z="http://www.zotero.org/namespaces/export#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bib="http://purl.org/net/biblio#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+  <bib:Report rdf:about="#ref1">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_ADOS_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-ADOS</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-ADOS</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref2">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_Demographic_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-Demo</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-Demo</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref3">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_Covars_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-Covars</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-Covars</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref4">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_Mullens_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-Muellens</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-Muellens</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref5">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_Outcome_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-Outcome</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-Outcome</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref6">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_UPEST_Trim1_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-UPEST_Trim1</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-UPEST_Trim1</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref7">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_UEP_Trim1_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-UEP_Trim1</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-UEP_Trim1</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref8">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_UEP_Trim2_3_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-UEP_Trim2_3</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-UEP_Trim2_3</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref9">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_UPHTH_Trim1_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-UPHTH_Trim1</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-UPHTH_Trim1</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref10">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_Averages_Trim2_3_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-AvgTrim2_3</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-AvgTrim2_3</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref11">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_Averages_Trim1_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-AvgTrim1</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-AvgTrim1</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref12">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_SpecimenCharacteristics_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-1449-Spec</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-1449-Spec</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref13">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Relating Metals Exposure to Birth and Early Childhood Outcomes via the Metabotype of Cord Blood. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 34_EPI_META_UM_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Christiani</foaf:surname>
+            <foaf:givenname>David</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/CHEAR-2016-34-META-01</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/CHEAR-2016-34-META-01</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref14">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Mitochondrial DNA biomarkers of prenatal metal mixture exposure: intergenerational inheritance and infant growth. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1740_Epi_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Cardenas</foaf:surname>
+            <foaf:givenname>Andres</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2017-1740_EPI_58</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2017-1740_EPI_58</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref15">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Pediatric Inner-City Environmental Exposures at School and Home and Asthma Study. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1407_Epi_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Phipatanakul</foaf:surname>
+            <foaf:givenname>Wanda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2016-1407_EPI_68</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2016-1407_EPI_68</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref16">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Biological Responses to Tobacco Smoke Exposure in Ill Children: Inflammatory Processes and Oral Metabolomic Profiles. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1762_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mahabee-Gittens</foaf:surname>
+            <foaf:givenname>Melinda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2017-1762_EPI_87</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2017-1762_EPI_87</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref17">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Biological Responses to Tobacco Smoke Exposure in Ill Children: Inflammatory Processes and Oral Metabolomic Profiles. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1762_COVAR2_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mahabee-Gittens</foaf:surname>
+            <foaf:givenname>Melinda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2017-1762_EPI_89</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2017-1762_EPI_89</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref18">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Biological Responses to Tobacco Smoke Exposure in Ill Children: Inflammatory Processes and Oral Metabolomic Profiles. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1762_COT_A_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mahabee-Gittens</foaf:surname>
+            <foaf:givenname>Melinda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2017-1762_MAIN_90</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2017-1762_MAIN_90</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref19">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Biological Responses to Tobacco Smoke Exposure in Ill Children: Inflammatory Processes and Oral Metabolomic Profiles. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1762_COT_A_REPS_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mahabee-Gittens</foaf:surname>
+            <foaf:givenname>Melinda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2017-1762_MAIN_91</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2017-1762_MAIN_91</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref20">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Relating Metals Exposure to Birth and Early Childhood Outcomes via the Metabotype of Cord Blood. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 34_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Christiani</foaf:surname>
+            <foaf:givenname>David</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/34_94</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/34_94</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref21">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Relating Metals Exposure to Birth and Early Childhood Outcomes via the Metabotype of Cord Blood. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 34_TLAB_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Christiani</foaf:surname>
+            <foaf:givenname>David</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/34_96</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/34_96</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref22">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Pediatric Inner-City Environmental Exposures at School and Home and Asthma Study. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1407_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Phipatanakul</foaf:surname>
+            <foaf:givenname>Wanda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1407_118</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1407_118</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref23">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Maternal and Developmental Risks from Environmental and Social Stressors (MADRES). Bioresponse Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1344-methylation_calls.tar.gz</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Breton</foaf:surname>
+            <foaf:givenname>Carrie</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1945_148</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1945_148</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref24">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Maternal and Developmental Risks from Environmental and Social Stressors (MADRES). Bioresponse Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: browser_tracks.tar.gz</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Breton</foaf:surname>
+            <foaf:givenname>Carrie</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1945_149</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1945_149</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref25">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Maternal and Developmental Risks from Environmental and Social Stressors (MADRES). Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1945_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Breton</foaf:surname>
+            <foaf:givenname>Carrie</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1945_159</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1945_159</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref26">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1449_164</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1449_164</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref27">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1449_167</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1449_167</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref28">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1449_Analytic_Averages_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1449_171</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1449_171</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref29">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Maternal and Developmental Risks from Environmental and Social Stressors (MADRES). Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1945_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Breton</foaf:surname>
+            <foaf:givenname>Carrie</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1945_177</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1945_177</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref30">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Biological Responses to Tobacco Smoke Exposure in Ill Children: Inflammatory Processes and Oral Metabolomic Profiles. Bioresponse Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1762_INFLAM_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mahabee-Gittens</foaf:surname>
+            <foaf:givenname>Melinda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1762_200</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1762_200</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref31">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>ECHO ReCHARGE Study - Environmental Exposures. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1461_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Hertz-Picciotto</foaf:surname>
+            <foaf:givenname>Irva</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1461_219</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1461_219</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref32">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>ECHO ReCHARGE Study - Environmental Exposures. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1461_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Hertz-Picciotto</foaf:surname>
+            <foaf:givenname>Irva</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1461_222</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1461_222</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref33">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Mitochondrial DNA biomarkers of prenatal metal mixture exposure: intergenerational inheritance and infant growth. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1740_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Cardenas</foaf:surname>
+            <foaf:givenname>Andres</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1740_225</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1740_225</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref34">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The impact of tobacco smoke exposure and environmental exposures on the pulmonary microbiome and outcomes of critically ill children. Epidemiological Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2120_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mourani</foaf:surname>
+            <foaf:givenname>Peter</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2120_229</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2120_229</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref35">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The impact of tobacco smoke exposure and environmental exposures on the pulmonary microbiome and outcomes of critically ill children. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2120_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mourani</foaf:surname>
+            <foaf:givenname>Peter</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2120_230</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2120_230</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref36">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Mitochondrial DNA biomarkers of prenatal metal mixture exposure: intergenerational inheritance and infant growth. Bioresponse Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1740_DNA_Copy_Number_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Cardenas</foaf:surname>
+            <foaf:givenname>Andres</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1740_240</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1740_240</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref37">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Mitochondrial DNA biomarkers of prenatal metal mixture exposure: intergenerational inheritance and infant growth. Bioresponse Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1740_DNA_Telomere_Length_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Cardenas</foaf:surname>
+            <foaf:givenname>Andres</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1740_245</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1740_245</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref38">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The impact of tobacco smoke exposure and environmental exposures on the pulmonary microbiome and outcomes of critically ill children. Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2120_META_REV_NEG.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mourani</foaf:surname>
+            <foaf:givenname>Peter</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2120_250</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2120_250</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref39">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The impact of tobacco smoke exposure and environmental exposures on the pulmonary microbiome and outcomes of critically ill children. Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2120_META_HILIC_POS.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mourani</foaf:surname>
+            <foaf:givenname>Peter</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2120_251</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2120_251</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref40">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The Dynamics of Exposure, Phthalates and Asthma in a Randomized Trial (DEPART). Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 2121_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Karr</foaf:surname>
+            <foaf:givenname>Catherine</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2121_260</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2121_260</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref41">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The Dynamics of Exposure, Phthalates and Asthma in a Randomized Trial (DEPART). Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 2121_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Karr</foaf:surname>
+            <foaf:givenname>Catherine</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2121_263</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2121_263</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref42">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The Dynamics of Exposure, Phthalates and Asthma in a Randomized Trial (DEPART). Bioresponse Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 2121_OXID_INFLAM_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Karr</foaf:surname>
+            <foaf:givenname>Catherine</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2121_264</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2121_264</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref43">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Phthalates and childhood obesity in a racially, ethnically and geographically diverse cohort.. Epidemiological Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2537_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Hunt</foaf:surname>
+            <foaf:givenname>Kelly</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2537_286</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2537_286</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref44">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Phthalates and childhood obesity in a racially, ethnically and geographically diverse cohort.. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2537_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Hunt</foaf:surname>
+            <foaf:givenname>Kelly</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2537_288</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2537_288</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref45">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Validation of Detailed Maternal Cigarette Smoke Exposure Self Reporting by Cotinine Analysis. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1523_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Karagas</foaf:surname>
+            <foaf:givenname>Margaret</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1523_291</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1523_291</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref46">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Validation of Detailed Maternal Cigarette Smoke Exposure Self Reporting by Cotinine Analysis. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1523_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Karagas</foaf:surname>
+            <foaf:givenname>Margaret</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1523_293</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1523_293</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref47">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1438_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_297</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_297</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref48">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1438_META_POS_P_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_300</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_300</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref49">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1438_META_NEG_P_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_304</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_304</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref50">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1438_META_POS_CB_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_308</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_308</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref51">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1438_META_NEG_CB_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_311</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_311</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref52">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Evaluation of Environmental Exposures in TEDDY. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1598_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Krischer</foaf:surname>
+            <foaf:givenname>Jefferey</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1598_316</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1598_316</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref53">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Evaluation of Environmental Exposures in TEDDY. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1598_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Krischer</foaf:surname>
+            <foaf:givenname>Jefferey</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1598_320</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1598_320</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref54">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Evaluation of Environmental Exposures in TEDDY. Bioresponse Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1598_OLINK_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Krischer</foaf:surname>
+            <foaf:givenname>Jefferey</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1598_322</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1598_322</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref55">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1431_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_327</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_327</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref56">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1431_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_329</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_329</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref57">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Metabolomics Linking Air Pollution, Obesity and Type 2 Diabetes. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1448_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Gilliland</foaf:surname>
+            <foaf:givenname>Frank</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1448_333</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1448_333</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref58">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>First Trimester Exposures: Influence on Birth Outcomes and Markers of Biological Response. Epidemiological Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2273_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Goodrich</foaf:surname>
+            <foaf:givenname>Jaclyn</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2273_337</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2273_337</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref59">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>First Trimester Exposures: Influence on Birth Outcomes and Markers of Biological Response. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2273_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Goodrich</foaf:surname>
+            <foaf:givenname>Jaclyn</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2273_338</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2273_338</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref60">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1431_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_346</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_346</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref61">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1431_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_347</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_347</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref62">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Denver Asthma Panel Study-CHEAR Ancillary Study. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1450_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Liu</foaf:surname>
+            <foaf:givenname>Andrew</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1450_355</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1450_355</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref63">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Denver Asthma Panel Study-CHEAR Ancillary Study. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1450_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Liu</foaf:surname>
+            <foaf:givenname>Andrew</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1450_356</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1450_356</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref64">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>First Trimester Exposures: Influence on Birth Outcomes and Markers of Biological Response. Bioresponse Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2273_DNAMethylation.zip</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Goodrich</foaf:surname>
+            <foaf:givenname>Jaclyn</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/10.36043/2273_357</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/10.36043/2273_357</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref65">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>First Trimester Exposures: Influence on Birth Outcomes and Markers of Biological Response. Bioresponse Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2273_RNA-seq.zip</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Goodrich</foaf:surname>
+            <foaf:givenname>Jaclyn</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/10.36043/2273_358</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/10.36043/2273_358</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref66">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Bioresponse Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1431_DNAMethylation.zip</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_392</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_392</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref67">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Bioresponse Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1431_RNA-seq.zip</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_393</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_393</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref68">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Childhood Exposures, Epigenetic and Transcriptomic Responses in the Syracuse Lead Study. Epidemiological Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2517_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bendinskas</foaf:surname>
+            <foaf:givenname>Kestutis</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2517_399</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2517_399</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref69">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Childhood Exposures, Epigenetic and Transcriptomic Responses in the Syracuse Lead Study. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2517_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bendinskas</foaf:surname>
+            <foaf:givenname>Kestutis</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2517_401</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2517_401</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref70">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Micronutrient deficiencies, environmental exposures and severe malaria: Risk factors for adverse neurodevelopmental outcomes in Ugandan children. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1432_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>John</foaf:surname>
+            <foaf:givenname>Chandy C.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1432_403</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1432_403</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref71">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Micronutrient deficiencies, environmental exposures and severe malaria: Risk factors for adverse neurodevelopmental outcomes in Ugandan children. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1432_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>John</foaf:surname>
+            <foaf:givenname>Chandy C.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1432_404</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1432_404</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref72">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Role of environmental toxicants in modulating disease severity in children with NAFLD. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1593_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Jain</foaf:surname>
+            <foaf:givenname>Ajay</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1593_409</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1593_409</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref73">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Role of environmental toxicants in modulating disease severity in children with NAFLD. Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1593_META_HILIC_POS.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Jain</foaf:surname>
+            <foaf:givenname>Ajay</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1593_413</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1593_413</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref74">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Role of environmental toxicants in modulating disease severity in children with NAFLD. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1593_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Jain</foaf:surname>
+            <foaf:givenname>Ajay</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1593_419</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1593_419</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref75">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>A Nested Case-Control Study of Prenatal Exposure to Phthalates and Psychosocial Stress: Adverse Pregnancy Outcomes and the Mediating Role of Placental Function. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1534_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Factor-Litvak</foaf:surname>
+            <foaf:givenname>Pam</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1534_420</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1534_420</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref76">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>A Nested Case-Control Study of Prenatal Exposure to Phthalates and Psychosocial Stress: Adverse Pregnancy Outcomes and the Mediating Role of Placental Function. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1534_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Factor-Litvak</foaf:surname>
+            <foaf:givenname>Pam</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1534_423</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1534_423</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref77">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Pediatric Inner-City Environmental Exposures at School and Home and Asthma Study. Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1407_META_HILIC_POS.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Phipatanakul</foaf:surname>
+            <foaf:givenname>Wanda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1407_460</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1407_460</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref78">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Pediatric Inner-City Environmental Exposures at School and Home and Asthma Study. Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 1407_META_REV_NEG.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Phipatanakul</foaf:surname>
+            <foaf:givenname>Wanda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1407_462</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1407_462</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref79">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Microbial and metabolic variations mediate the influence of childhood and adolescent EDC and trace element exposure on breast density.. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1977_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Michels</foaf:surname>
+            <foaf:givenname>Karin</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1977_480</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1977_480</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref80">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Microbial and metabolic variations mediate the influence of childhood and adolescent EDC and trace element exposure on breast density.. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1977_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Michels</foaf:surname>
+            <foaf:givenname>Karin</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1977_482</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1977_482</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref81">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Microbial and metabolic variations mediate the influence of childhood and adolescent EDC and trace element exposure on breast density.. Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1977_MICROBIOME_ASV_DATA.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Michels</foaf:surname>
+            <foaf:givenname>Karin</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1977_490</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1977_490</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref82">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Role of environmental toxicants in modulating disease severity in children with NAFLD. Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1593_META_REV_NEG.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Jain</foaf:surname>
+            <foaf:givenname>Ajay</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1593_492</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1593_492</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref83">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Domestic Indoor PM and Childhood Asthma Morbidity (DISCOVER Study). Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1982_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Quiros-Alcala</foaf:surname>
+            <foaf:givenname>Lesliam</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1982_502</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1982_502</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref84">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Perfluoroalkyl substances and lipid composition in human milk. Epidemiological Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2539_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Romano</foaf:surname>
+            <foaf:givenname>Megan</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2539_513</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2539_513</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref85">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Perfluoroalkyl substances and lipid composition in human milk. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2539_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Romano</foaf:surname>
+            <foaf:givenname>Megan</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2539_515</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2539_515</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref86">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Microbial and metabolic variations mediate the influence of childhood and adolescent EDC and trace element exposure on breast density.. Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1977_META_HILIC_POS.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Michels</foaf:surname>
+            <foaf:givenname>Karin</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1977_525</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1977_525</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref87">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Microbial and metabolic variations mediate the influence of childhood and adolescent EDC and trace element exposure on breast density.. Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1977_META_REV_NEG.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Michels</foaf:surname>
+            <foaf:givenname>Karin</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1977_526</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1977_526</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref88">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Domestic Indoor PM and Childhood Asthma Morbidity (DISCOVER Study). Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1982_EPI_AIRWEIGHS_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Quiros-Alcala</foaf:surname>
+            <foaf:givenname>Lesliam</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1982_539</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1982_539</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref89">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Domestic Indoor PM and Childhood Asthma Morbidity (DISCOVER Study). Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1982_EPI_DISCOVER_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Quiros-Alcala</foaf:surname>
+            <foaf:givenname>Lesliam</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1982_540</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1982_540</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref90">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Perfluoroalkyl and Polyfluroalkyl Substances (PFAS), Protein Biomarkers, Adiposity and Cardiometabolic Risk Factors in a 3-year Cohort of Low-Income Latino Children with Overweight and Obesity from the Stanford GOALS Randomized Controlled Trial. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1967_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Robinson</foaf:surname>
+            <foaf:givenname>Thomas</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1967_544</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1967_544</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref91">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Perfluoroalkyl and Polyfluroalkyl Substances (PFAS), Protein Biomarkers, Adiposity and Cardiometabolic Risk Factors in a 3-year Cohort of Low-Income Latino Children with Overweight and Obesity from the Stanford GOALS Randomized Controlled Trial. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1967_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Robinson</foaf:surname>
+            <foaf:givenname>Thomas</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1967_548</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1967_548</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref92">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Perfluoroalkyl and Polyfluroalkyl Substances (PFAS), Protein Biomarkers, Adiposity and Cardiometabolic Risk Factors in a 3-year Cohort of Low-Income Latino Children with Overweight and Obesity from the Stanford GOALS Randomized Controlled Trial. Bioresponse Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1967_INFLAM_Olink_normalized_DATA.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Robinson</foaf:surname>
+            <foaf:givenname>Thomas</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1967_554</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1967_554</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref93">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The Role of Environmental Endocrine Disruptors on the Health of Inner City Children. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2512_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Quiros-Alcala</foaf:surname>
+            <foaf:givenname>Lesliam</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2512_647</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2512_647</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref94">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The Role of Environmental Endocrine Disruptors on the Health of Inner City Children. Epidemiological Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2512_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Quiros-Alcala</foaf:surname>
+            <foaf:givenname>Lesliam</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2512_648</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2512_648</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref95">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>SEARCH for Diabetes in Youth (SEARCH). Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1962_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Jensen</foaf:surname>
+            <foaf:givenname>Elizabeth</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1962_657</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1962_657</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref96">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Exposure to metals in pregnant women and the impact on fetal development and birth outcomes in Suriname. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2254_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Lichtveld</foaf:surname>
+            <foaf:givenname>Maureen</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2254_670</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2254_670</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref97">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Exposure to metals in pregnant women and the impact on fetal development and birth outcomes in Suriname. Epidemiological Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2254_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Lichtveld</foaf:surname>
+            <foaf:givenname>Maureen</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2254_671</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2254_671</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref98">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Childhood Exposures, Epigenetic and Transcriptomic Responses in the Syracuse Lead Study. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 3131_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bendinskas</foaf:surname>
+            <foaf:givenname>Kestutis</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2517_673</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2517_673</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref99">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental Toxins in Early Life: Shaping Health and Disease in Childhood. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2532_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Lasky-Su</foaf:surname>
+            <foaf:givenname>Jessica</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2532_678</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2532_678</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref100">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental Toxins in Early Life: Shaping Health and Disease in Childhood. Epidemiological Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 2532_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Lasky-Su</foaf:surname>
+            <foaf:givenname>Jessica</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2532_679</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2532_679</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref101">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Zika Virus Congenital Health Outcomes and the Impact of Maternal Environmental Exposures. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1839_EPI_1.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Welton</foaf:surname>
+            <foaf:givenname>Michael</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1839_689</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1839_689</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref102">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Zika Virus Congenital Health Outcomes and the Impact of Maternal Environmental Exposures. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1839_EPI_2.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Welton</foaf:surname>
+            <foaf:givenname>Michael</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1839_690</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1839_690</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref103">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Zika Virus Congenital Health Outcomes and the Impact of Maternal Environmental Exposures. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1839_EPI_3.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Welton</foaf:surname>
+            <foaf:givenname>Michael</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1839_691</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1839_691</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref104">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Zika Virus Congenital Health Outcomes and the Impact of Maternal Environmental Exposures. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1839_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Welton</foaf:surname>
+            <foaf:givenname>Michael</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1839_695</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1839_695</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref105">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental links to immune disruption and chronic disease. Epidemiological Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00496_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Reynolds</foaf:surname>
+            <foaf:givenname>Peggy</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00496_700</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00496_700</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref106">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental links to immune disruption and chronic disease. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00496_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Reynolds</foaf:surname>
+            <foaf:givenname>Peggy</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00496_701</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00496_701</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref107">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Air Pollution, Placenta Function, and Birth Outcomes in Los Angeles. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1729_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Ritz</foaf:surname>
+            <foaf:givenname>Beate</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1729_705</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1729_705</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref108">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Air Pollution, Placenta Function, and Birth Outcomes in Los Angeles. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1729_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Ritz</foaf:surname>
+            <foaf:givenname>Beate</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1729_707</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1729_707</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref109">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Investigating Overweight/Obesity and Poor Diet as Susceptibility Factors for Secondhand Smoke in Childhood Asthma. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1863_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>McCormack</foaf:surname>
+            <foaf:givenname>Meredith</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1863_709</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1863_709</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref110">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>SEARCH for Diabetes in Youth (SEARCH). Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1962_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Jensen</foaf:surname>
+            <foaf:givenname>Elizabeth</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1962_718</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1962_718</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref111">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Micronutrient deficiencies, environmental exposures and severe malaria: Risk factors for adverse neurodevelopmental outcomes in Ugandan children. Epidemiological Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: p30_Workshop_WQS_dataset.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>John</foaf:surname>
+            <foaf:givenname>Chandy C.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1432_723</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1432_723</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref112">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Pesticides, Perfluorinated compounds and the development of adolescents in agricultural communities.. Epidemiological Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 1599_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Suarez</foaf:surname>
+            <foaf:givenname>Jose Ricardo</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1599_729</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1599_729</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref113">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Pesticides, Perfluorinated compounds and the development of adolescents in agricultural communities.. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: 1599_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Suarez</foaf:surname>
+            <foaf:givenname>Jose Ricardo</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1599_730</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1599_730</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref114">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Relating Metals Exposure to Birth and Early Childhood Outcomes via the Metabotype of Cord Blood. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: 34_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Christiani</foaf:surname>
+            <foaf:givenname>David</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/34_732</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/34_732</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref115">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Role of environmental toxicants in obesity-related cardiovascular disease. Epidemiological Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00605_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Gokce</foaf:surname>
+            <foaf:givenname>Noyan</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00605_741</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00605_741</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref116">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Role of environmental toxicants in obesity-related cardiovascular disease. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00605_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Gokce</foaf:surname>
+            <foaf:givenname>Noyan</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00605_743</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00605_743</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref117">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental exposure driven myosteatosis and associated metabolic disease. Epidemiological Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00606_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Miljkovic</foaf:surname>
+            <foaf:givenname>Iva</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00606_756</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00606_756</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref118">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental exposure driven myosteatosis and associated metabolic disease. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00606_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Miljkovic</foaf:surname>
+            <foaf:givenname>Iva</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00606_757</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00606_757</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref119">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Exposure to household dust toxins, urinary biomarkers and childhood lung function. Epidemiological Data</dc:title>
+    <dc:date>2021</dc:date>
+    <z:extra>file_name: 00862_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Rosa</foaf:surname>
+            <foaf:givenname>Maria Jose</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00862_758</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00862_758</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref120">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Exposure to household dust toxins, urinary biomarkers and childhood lung function. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2021</dc:date>
+    <z:extra>file_name: 00862_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Rosa</foaf:surname>
+            <foaf:givenname>Maria Jose</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00862_760</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00862_760</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref121">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Investigating Overweight/Obesity and Poor Diet as Susceptibility Factors for Secondhand Smoke in Childhood Asthma. Epidemiological Data</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: 1863_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>McCormack</foaf:surname>
+            <foaf:givenname>Meredith</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1863_1770</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1863_1770</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref122">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Early environmental determinants of child lung health in a South African birth cohort study.. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00652_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Zar</foaf:surname>
+            <foaf:givenname>Heather</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00652_1771</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00652_1771</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref123">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Early environmental determinants of child lung health in a South African birth cohort study.. Epidemiological Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00652_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Zar</foaf:surname>
+            <foaf:givenname>Heather</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00652_1772</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00652_1772</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref124">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>A prospective study of per- and poly-fluorinated substances (PFAS) and risk of pancreatic cancer in the NYU Women's Health Study. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2021</dc:date>
+    <z:extra>file_name: 01103_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Wu</foaf:surname>
+            <foaf:givenname>Fen</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/01103_1779</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/01103_1779</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref125">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>A prospective study of per- and poly-fluorinated substances (PFAS) and risk of pancreatic cancer in the NYU Women's Health Study. Epidemiological Data</dc:title>
+    <dc:date>2021</dc:date>
+    <z:extra>file_name: 01103_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Wu</foaf:surname>
+            <foaf:givenname>Fen</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/01103_1780</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/01103_1780</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref126">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Assessment of childhood exposure to flame retardants (FRs), phthalates, pesticides, and polycyclic aromatic hydrocarbons (PAHs) via handwipes. Epidemiological Data</dc:title>
+    <dc:date>2022</dc:date>
+    <z:extra>file_name: 01431_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Crawford</foaf:surname>
+            <foaf:givenname>Kathryn</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/01431_1792</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/01431_1792</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref127">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Assessment of childhood exposure to flame retardants (FRs), phthalates, pesticides, and polycyclic aromatic hydrocarbons (PAHs) via handwipes. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2022</dc:date>
+    <z:extra>file_name: 01431_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Crawford</foaf:surname>
+            <foaf:givenname>Kathryn</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/01431_1794</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/01431_1794</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref128">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Perinatal exposure to household dust toxins on child respiratory outcomes. Epidemiological Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 01431_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bose</foaf:surname>
+            <foaf:givenname>Sonali</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00835_1799</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00835_1799</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref129">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Perinatal exposure to household dust toxins on child respiratory outcomes. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 01431_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bose</foaf:surname>
+            <foaf:givenname>Sonali</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00835_1801</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00835_1801</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref130">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Perinatal exposure to household dust toxins on child respiratory outcomes. Epidemiological Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00835_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bose</foaf:surname>
+            <foaf:givenname>Sonali</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00835_1802</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00835_1802</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref131">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Perinatal exposure to household dust toxins on child respiratory outcomes. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00835_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bose</foaf:surname>
+            <foaf:givenname>Sonali</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00835_1804</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00835_1804</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref132">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The role of PFAS exposures in nonalcoholic fatty liver disease and hepatocellular carcinoma in the Multiethnic Cohort. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00500_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Setiawan</foaf:surname>
+            <foaf:givenname>Veronica</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00500_1807</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00500_1807</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref133">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The role of PFAS exposures in nonalcoholic fatty liver disease and hepatocellular carcinoma in the Multiethnic Cohort. Epidemiological Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00500_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Setiawan</foaf:surname>
+            <foaf:givenname>Veronica</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00500_1809</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00500_1809</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref134">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The role of PFAS exposures in nonalcoholic fatty liver disease and hepatocellular carcinoma in the Multiethnic Cohort. Untargeted Lab Analytic Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00500_META_MAP.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Setiawan</foaf:surname>
+            <foaf:givenname>Veronica</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00500_1811</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00500_1811</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref135">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Association of persistent organic pollutants (POPs) with ectopic fat in South Asians. Epidemiological Data</dc:title>
+    <dc:date>2021</dc:date>
+    <z:extra>file_name: 01026_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Merrill</foaf:surname>
+            <foaf:givenname>Michele La</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/01026_1815</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/01026_1815</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref136">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Association of persistent organic pollutants (POPs) with ectopic fat in South Asians. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2021</dc:date>
+    <z:extra>file_name: 01026_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Merrill</foaf:surname>
+            <foaf:givenname>Michele La</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/01026_1817</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/01026_1817</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref137">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental Exposure and Breast Cancer Outcomes across the Spectrum of Absolute Breast Cancer Risk. Epidemiological Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00487_EPI_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Terry</foaf:surname>
+            <foaf:givenname>Mary Beth</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00487_1819</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00487_1819</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref138">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental Exposure and Breast Cancer Outcomes across the Spectrum of Absolute Breast Cancer Risk. Targeted Lab Analytic Data</dc:title>
+    <dc:date>2020</dc:date>
+    <z:extra>file_name: 00487_TARGETED_DATA.csv</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Terry</foaf:surname>
+            <foaf:givenname>Mary Beth</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/00487_1821</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/00487_1821</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref139">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Pediatric Inner-City Environmental Exposures at School and Home and Asthma Study. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1407-v1.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Phipatanakul</foaf:surname>
+            <foaf:givenname>Wanda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1407_590</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1407_590</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref140">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-1-P01_M-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_591</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_591</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref141">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-4-P01_A-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_596</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_596</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref142">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-2-P01_SG-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_599</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_599</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref143">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-3-HB-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_600</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_600</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref144">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-5-P20_A-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_601</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_601</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref145">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-6-P20_Exp-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_602</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_602</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref146">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-7-P20_M-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_603</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_603</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref147">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-8-pg-v1.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_604</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_604</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref148">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Pediatric Inner-City Environmental Exposures at School and Home and Asthma Study. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1407-v1.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Phipatanakul</foaf:surname>
+            <foaf:givenname>Wanda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1407_605_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1407_605_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref149">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-1-P01_M-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_606_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_606_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref150">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-2-P01_SG-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_607_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_607_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref151">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-3-HB-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_608_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_608_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref152">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-4-P01_A-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_609_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_609_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref153">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-5-P20_A-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_610_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_610_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref154">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-6-P20_Exp-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_611_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_611_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref155">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-7-P20_M-v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_612_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_612_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref156">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Sex-Specific Omics Profiles Related to Toxicant Exposures in Children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1431-8-pg-v1.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Perng</foaf:surname>
+            <foaf:givenname>Wei</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1431_613_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1431_613_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref157">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Micronutrient deficiencies, environmental exposures and severe malaria: Risk factors for adverse neurodevelopmental outcomes in Ugandan children. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1432-v10-JAS.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>John</foaf:surname>
+            <foaf:givenname>Chandy C.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1432_614_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1432_614_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref158">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1438-ADOS_SubsetPIDs-1.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_615_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_615_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref159">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1438-Covars_AdditionalVars-2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_616_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_616_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref160">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1438-Covars_SubsetPIDs-3.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_617_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_617_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref161">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1438-Demographic_SubsetPIDs-4.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_618_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_618_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref162">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1438-Mullen_SubsetPIDs-5.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_619_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_619_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref163">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Internal Metabolomic Biomarker Exposome and Developmental Disorders (IMBEDD). Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1438-Outcome_AdditionalVars-6.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Schmidt</foaf:surname>
+            <foaf:givenname>Rebecca J.</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1438_620_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1438_620_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref164">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Metabolomics Linking Air Pollution, Obesity and Type 2 Diabetes. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1448_SB.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Gilliland</foaf:surname>
+            <foaf:givenname>Frank</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1448_621_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1448_621_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref165">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1449-1-ADOS-v3.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1449_622_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1449_622_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref166">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1449-2-Covars-v7.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1449_623_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1449_623_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref167">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1449-3-Demographics-v6.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1449_624_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1449_624_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref168">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1449-4-Mullen-v5.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1449_625_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1449_625_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref169">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1449-5-Outcome-v7.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1449_626_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1449_626_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref170">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1449-6-WA1.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1449_627_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1449_627_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref171">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Environmental phenols and pesticide levels in relationship to autism. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1449-7-WA23.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bennett</foaf:surname>
+            <foaf:givenname>Deborah</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1449_628_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1449_628_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref172">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Denver Asthma Panel Study-CHEAR Ancillary Study. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1450_v1_JAS.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Liu</foaf:surname>
+            <foaf:givenname>Andrew</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1450_629_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1450_629_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref173">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>ECHO ReCHARGE Study - Environmental Exposures. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1461.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Hertz-Picciotto</foaf:surname>
+            <foaf:givenname>Irva</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1461_630_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1461_630_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref174">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Validation of Detailed Maternal Cigarette Smoke Exposure Self Reporting by Cotinine Analysis. Semantic Data Dictionary</dc:title>
+    <dc:date>2016</dc:date>
+    <z:extra>file_name: SDD-2016-1523_v2.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Karagas</foaf:surname>
+            <foaf:givenname>Margaret</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1523_631_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1523_631_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref175">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Mitochondrial DNA biomarkers of prenatal metal mixture exposure: intergenerational inheritance and infant growth. Semantic Data Dictionary</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: SDD-2017-1740_SB.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Cardenas</foaf:surname>
+            <foaf:givenname>Andres</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1740_632_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1740_632_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref176">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Biological Responses to Tobacco Smoke Exposure in Ill Children: Inflammatory Processes and Oral Metabolomic Profiles. Semantic Data Dictionary</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: SDD-2017-1762-DemoHealth.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mahabee-Gittens</foaf:surname>
+            <foaf:givenname>Melinda</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1762_633_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1762_633_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref177">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Maternal and Developmental Risks from Environmental and Social Stressors (MADRES). Semantic Data Dictionary</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: SDD-2017-1945_v4.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Breton</foaf:surname>
+            <foaf:givenname>Carrie</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/1945_634_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/1945_634_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref178">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The Dynamics of Exposure, Phthalates and Asthma in a Randomized Trial (DEPART). Semantic Data Dictionary</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: SDD-2017-2121-PD.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Karr</foaf:surname>
+            <foaf:givenname>Catherine</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2121_635_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2121_635_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref179">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The Dynamics of Exposure, Phthalates and Asthma in a Randomized Trial (DEPART). Semantic Data Dictionary</dc:title>
+    <dc:date>2017</dc:date>
+    <z:extra>file_name: SDD-2017-2121-Void.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Karr</foaf:surname>
+            <foaf:givenname>Catherine</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2121_636_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2121_636_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref180">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>The impact of tobacco smoke exposure and environmental exposures on the pulmonary microbiome and outcomes of critically ill children. Semantic Data Dictionary</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: SDD-2018-2120.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Mourani</foaf:surname>
+            <foaf:givenname>Peter</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2120_637_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2120_637_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref181">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>First Trimester Exposures: Influence on Birth Outcomes and Markers of Biological Response. Semantic Data Dictionary</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: SDD-2018-2273.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Goodrich</foaf:surname>
+            <foaf:givenname>Jaclyn</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2273_638_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2273_638_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref182">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Childhood Exposures, Epigenetic and Transcriptomic Responses in the Syracuse Lead Study. Semantic Data Dictionary</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: SDD-2018-2517-PD-DemoHealth.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bendinskas</foaf:surname>
+            <foaf:givenname>Kestutis</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2517_639_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2517_639_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref183">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Childhood Exposures, Epigenetic and Transcriptomic Responses in the Syracuse Lead Study. Semantic Data Dictionary</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: SDD-2018-2517-SES-RawData.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Bendinskas</foaf:surname>
+            <foaf:givenname>Kestutis</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2517_640_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2517_640_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+  <bib:Report rdf:about="#ref184">
+    <z:itemType>dataset</z:itemType>
+    <dc:title>Phthalates and childhood obesity in a racially, ethnically and geographically diverse cohort.. Semantic Data Dictionary</dc:title>
+    <dc:date>2018</dc:date>
+    <z:extra>file_name: SDD-2018-2537-v1.xlsx</z:extra>
+    <bib:authors>
+      <rdf:Seq>
+        <rdf:li>
+          <foaf:Person>
+            <foaf:surname>Hunt</foaf:surname>
+            <foaf:givenname>Kelly</foaf:givenname>
+          </foaf:Person>
+        </rdf:li>
+      </rdf:Seq>
+    </bib:authors>
+    <z:repository>HHEAR Data Repository</z:repository>
+    <prism:doi>10.36043/2537_641_2022.2</prism:doi>
+    <dc:identifier>
+      <dcterms:URI>
+        <rdf:value>https://doi.org/10.36043/2537_641_2022.2</rdf:value>
+      </dcterms:URI>
+    </dc:identifier>
+  </bib:Report>
+</rdf:RDF>
